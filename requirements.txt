@@ -1,8 +1,7 @@
 streamlit
-
-#Utilitites 
+# Utilitites 
 numpy
-pandas 
+pandas
 
 # FACE RECOGNITION
 scikit-learn
